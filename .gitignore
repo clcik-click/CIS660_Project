@@ -1,4 +1,11 @@
-.docx
-.zip
-.html
+# Ignore Word documents
+*.docx
+
+# Ignore zip files
+*.zip
+
+# Ignore HTML files
+*.html
+
+# Ignore html_files directory
 html_files/
